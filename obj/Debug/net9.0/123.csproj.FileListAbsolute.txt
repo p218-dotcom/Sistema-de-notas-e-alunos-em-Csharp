@@ -1,0 +1,14 @@
+C:\Users\Pietro\Documents\Projetos\C, C#, C++\C#\123\bin\Debug\net9.0\123.exe
+C:\Users\Pietro\Documents\Projetos\C, C#, C++\C#\123\bin\Debug\net9.0\123.deps.json
+C:\Users\Pietro\Documents\Projetos\C, C#, C++\C#\123\bin\Debug\net9.0\123.runtimeconfig.json
+C:\Users\Pietro\Documents\Projetos\C, C#, C++\C#\123\bin\Debug\net9.0\123.dll
+C:\Users\Pietro\Documents\Projetos\C, C#, C++\C#\123\bin\Debug\net9.0\123.pdb
+C:\Users\Pietro\Documents\Projetos\C, C#, C++\C#\123\obj\Debug\net9.0\123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pietro\Documents\Projetos\C, C#, C++\C#\123\obj\Debug\net9.0\123.AssemblyInfoInputs.cache
+C:\Users\Pietro\Documents\Projetos\C, C#, C++\C#\123\obj\Debug\net9.0\123.AssemblyInfo.cs
+C:\Users\Pietro\Documents\Projetos\C, C#, C++\C#\123\obj\Debug\net9.0\123.csproj.CoreCompileInputs.cache
+C:\Users\Pietro\Documents\Projetos\C, C#, C++\C#\123\obj\Debug\net9.0\123.dll
+C:\Users\Pietro\Documents\Projetos\C, C#, C++\C#\123\obj\Debug\net9.0\refint\123.dll
+C:\Users\Pietro\Documents\Projetos\C, C#, C++\C#\123\obj\Debug\net9.0\123.pdb
+C:\Users\Pietro\Documents\Projetos\C, C#, C++\C#\123\obj\Debug\net9.0\123.genruntimeconfig.cache
+C:\Users\Pietro\Documents\Projetos\C, C#, C++\C#\123\obj\Debug\net9.0\ref\123.dll
